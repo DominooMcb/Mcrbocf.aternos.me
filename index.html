@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Odtwarzacz MP3 z linku</title>
+</head>
+<body>
+  <h1>🎶 Odtwarzacz MP3</h1>
+  <input id="link" type="text" placeholder="https://...mp3" style="width:300px;">
+  <button onclick="playMusic()">Odtwórz</button>
+  <br><br>
+  <audio id="player" controls></audio>
+
+  <script>
+    function playMusic() {
+      const url = document.getElementById("link").value;
+      const player = document.getElementById("player");
+      player.src = url;
+      player.play();
+    }
+  </script>
+</body>
+</html>
