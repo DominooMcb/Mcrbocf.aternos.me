@@ -1,0 +1,38 @@
+[
+  {
+    "uuid": "14cff1b7-2bf1-3c74-9ff9-604e04c2536e",
+    "name": "Icehost",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0c167f4f-18d8-3bf0-b4d5-ee8430bcfa25",
+    "name": "aternos",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c4a23e49-e25d-3980-b1ce-813f7fd5a013",
+    "name": "DominooMcb",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2c0929a7-7730-3e9d-ab8f-90f1bfde84f4",
+    "name": "Arab2013_pl",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a16b7a49-8123-3301-87e4-b304fddd0625",
+    "name": "owner",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "88accb4f-92ce-35c7-8d2e-c2b73f7a5e1b",
+    "name": "Aternos",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
