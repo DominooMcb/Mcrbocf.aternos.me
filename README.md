@@ -16,11 +16,11 @@ Welcome to the official source code repository for the **Mcrbocf.aternos.me** Mi
 Due to GitHub size limitations, some large server files are hosted on external secure clouds.
 
 ### 📦 Alternative Full Downloads (Code + World)
-* **Mirror 1:** [MediaFire (ZIP)](https://mediafire.com)
-* **Mirror 2:** [TeraBox (ZIP)](https://1024terabox.com)
+* **Mirror 1:** MediaFire: https://www.mediafire.com/file/4rg41gxfz5mfsw1/Mcrbocf.aternos.me-main_FULL_CODE.zip/file
+* **Mirror 2:** TeraBox: https://1024terabox.com/s/1GjsCvWK75ld_KZXBUbk9ew
 
 ### 🌍 World Folder Only
-* **Direct Download:** [Catbox.moe (ZIP)](https://catbox.moe)
+* **Direct Download:** CatBox: http://files.catbox.moe/u6fi12.zip
 
 ---
 
