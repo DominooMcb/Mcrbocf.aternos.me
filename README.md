@@ -1,39 +1,29 @@
 # 🎮 Mcrbocf.aternos.me — Source Code
 
-Welcome to the official source code repository for the **Mcrbocf.aternos.me** Minecraft server. You are free to use this setup for your own server, provided you follow the license terms.
+Welcome to the official source code repository for the **Mcrbocf.aternos.me** Minecraft server. You are free to use this setup for your own server, provided you follow the terms below.
 
 ---
 
 ## 🚀 Features & Content
 * **Complete Setup:** Ready-to-use server configuration.
 * **Pre-configured Plugins:** Optimized for performance and gameplay.
-* **Custom World:** Unique map included (via external download).
+* **Custom World:** Unique map included.
 
 ---
 
 ## 💾 Downloads
 
-Due to GitHub size limitations, the world folder and full server packages are hosted on external secure clouds.
-
-### 🌍 World Folder Only
-* **Direct Download:** [Catbox.moe (ZIP)](https://files.catbox.moe/u6fi12.zip)
+Due to GitHub size limitations, some large server files are hosted on external secure clouds.
 
 ### 📦 Alternative Full Downloads (Code + World)
-* **Mirror 1:** [MediaFire (ZIP)](#) *(https://www.mediafire.com/file/4rg41gxfz5mfsw1/Mcrbocf.aternos.me-main_FULL_CODE.zip/file)*
-* **Mirror 2:** [Google Drive](#) *(Wklej tutaj swój link)*
+* **Mirror 1:** [MediaFire (ZIP)](https://mediafire.com)
+* **Mirror 2:** [TeraBox (ZIP)](https://1024terabox.com)
+
+### 🌍 World Folder Only
+* **Direct Download:** [Catbox.moe (ZIP)](https://catbox.moe)
 
 ---
 
-## ⚙️ Installation
+## ✍️ Credits
 
-1. **Download** lol
-
-
----
-
-## 📜 License & Credits
-
-* You **can** use, modify, and share this source code for your own server.
-* You **must** keep the original credits and link back to this repository.
-* Commercial redistribution without permission is strictly prohibited.
-
+* You can freely use this source code with your server, but **please leave credits** and link back to this repository.
