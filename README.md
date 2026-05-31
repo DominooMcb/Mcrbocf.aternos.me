@@ -19,7 +19,7 @@ Due to GitHub size limitations, the world folder and full server packages are ho
 * **Direct Download:** [Catbox.moe (ZIP)](https://files.catbox.moe/u6fi12.zip)
 
 ### 📦 Alternative Full Downloads (Code + World)
-* **Mirror 1:** [MediaFire (ZIP)](#) *(Wklej tutaj swój link)*
+* **Mirror 1:** [MediaFire (ZIP)](#) *(https://www.mediafire.com/file/4rg41gxfz5mfsw1/Mcrbocf.aternos.me-main_FULL_CODE.zip/file)*
 * **Mirror 2:** [Google Drive](#) *(Wklej tutaj swój link)*
 
 ---
