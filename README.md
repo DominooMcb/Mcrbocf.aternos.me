@@ -26,11 +26,8 @@ Due to GitHub size limitations, the world folder and full server packages are ho
 
 ## ⚙️ Installation
 
-1. **Clone** this repository or download the source code.
-2. **Download** the world folder from the link above.
-3. **Extract** the world ZIP file into the main server directory.
-4. **Rename** the extracted folder to `world` (if necessary).
-5. **Start** your Minecraft server.
+1. **Download** lol
+
 
 ---
 
