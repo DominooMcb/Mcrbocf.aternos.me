@@ -22,8 +22,3 @@ Due to GitHub size limitations, some large server files are hosted on external s
 ### 🌍 World Folder Only
 * **Direct Download:** CatBox: http://files.catbox.moe/u6fi12.zip
 
----
-
-## ✍️ Credits
-
-* You can freely use this source code with your server, but **please leave credits** and link back to this repository.
