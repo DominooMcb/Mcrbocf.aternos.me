@@ -22,3 +22,9 @@ Due to GitHub size limitations, some large server files are hosted on external s
 ### 🌍 World Folder Only
 * **Direct Download:** CatBox: http://files.catbox.moe/u6fi12.zip
 
+* ## ⚖️ Copyright and License
+
+* **Maps and Worlds (.mca):** Fully covered by the **GNU Affero General Public License v3.0 (AGPL-3.0)** (my original work/project). 
+* **Plugin Configurations:** The `plugins/` directory contains default configuration files, which are the property of their respective plugin authors (*Shopkeepers*, *WorldEdit*, etc.). They are included here solely for server structure and setup purposes.
+
+
